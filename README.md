@@ -33,7 +33,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 Ahmed Nazir Musah
 
 - GitHub: [@githubhandle](https://github.com/ahmednazirmusah)
 - Twitter: [@twitterhandle](https://twitter.com/ahmednazirmusah)
