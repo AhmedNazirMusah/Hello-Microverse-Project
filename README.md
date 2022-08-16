@@ -9,14 +9,14 @@ In this project, you will set up a "Hello world" repository.
 
 - HTML & CSS
 
+## Live Demo (if available)
+
+[Live Demo Link](https://livedemo.com)
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
+### Prerequisites
 
 ### Setup
 - Create a repository
@@ -31,10 +31,39 @@ To get a local copy up and running follow these simple example steps.
 - Make sure that the last file is actually ignored by git and is not present in your GitHub repository.     
 
 
-## Authors
+### Install
+
+### Usage
+
+### Run tests
+
+### Deployment
+
+## Author
 
 👤 Ahmed Nazir Musah
 
 - GitHub: [@githubhandle](https://github.com/ahmednazirmusah)
 - Twitter: [@twitterhandle](https://twitter.com/ahmednazirmusah)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ahmed-nazir-musah-529956214?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaN%2F7ouJiQmaaZdym2t1Uxg%3D%3D)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
